@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Camp Edison",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/camp-edison-shaver-lake?osq=camping"
+    },
+    {
+        "name": "Rock Creek Campground",
+        "rating": 5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/rock-creek-campground-north-fork?osq=camping"
+    },
+    {
+        "name": "Rancheria Campground",
+        "rating": 5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/rancheria-campground-sierra?osq=camping"
+    },
+    {
+        "name": "Spring Cove Camp Ground",
+        "rating": 4.5,
+        "categories": "Hiking, Campgrounds, Day Camps",
+        "website": "https://www.yelp.com/biz/spring-cove-camp-ground-bass-lake?osq=camping"
+    },
+    {
+        "name": "Deer Creek Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/deer-creek-campground-lakeshore?osq=camping"
+    },
+    {
+        "name": "Bass Lake Recreation Area",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/bass-lake-recreation-area-bass-lake?osq=camping"
+    },
+    {
+        "name": "Twin Lakes Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/twin-lakes-campground-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Whisky Falls",
+        "rating": 5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/whisky-falls-north-fork?osq=camping"
+    },
+    {
+        "name": "Summerdale Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/summerdale-campground-fish-camp?osq=camping"
+    },
+    {
+        "name": "PSEA Camp Wishon",
+        "rating": 5,
+        "categories": "Lakes, Campgrounds",
+        "website": "https://www.yelp.com/biz/psea-camp-wishon-wishon?osq=camping"
+    },
+    {
+        "name": "Coldwater Creek Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/coldwater-creek-campground-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Wawona Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/wawona-campground-yosemite-national-park?osq=camping"
+    },
+    {
+        "name": "Dorabelle Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/dorabelle-campground-shaver-lake?osq=camping"
+    },
+    {
+        "name": "Millerton Lake State Recreation Area",
+        "rating": 4,
+        "categories": "Lakes, Parks",
+        "website": "https://www.yelp.com/biz/millerton-lake-state-recreation-area-friant?osq=camping"
+    },
+    {
+        "name": "Forks Campground",
+        "rating": 4,
+        "categories": "Boating, Fishing, Campgrounds",
+        "website": "https://www.yelp.com/biz/forks-campground-bass-lake-2?osq=camping"
+    },
+    {
+        "name": "North Pines Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/north-pines-campground-yosemite-valley?osq=camping"
+    },
+    {
+        "name": "Island Park Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/island-park-campground-sanger?osq=camping"
+    },
+    {
+        "name": "Hidden View Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/hidden-view-campground-raymond?osq=camping"
+    },
+    {
+        "name": "Kirch Flat Campground",
+        "rating": 5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/kirch-flat-campground-tollhouse?osq=camping"
+    },
+    {
+        "name": "Yosemite Creek Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/yosemite-creek-campground-no-title?osq=camping"
+    },
+    {
+        "name": "Miller\u2019s Landing Resort - Temp. CLOSED",
+        "rating": 4.5,
+        "categories": "Boating, Vacation Rentals, American (Traditional)",
+        "website": "https://www.yelp.com/biz/millers-landing-resort-bass-lake?osq=camping"
+    },
+    {
+        "name": "Silver Lake Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/silver-lake-campground-june-lake?osq=camping"
+    },
+    {
+        "name": "Hensley Lake Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/hensley-lake-campground-raymond?osq=camping"
+    },
+    {
+        "name": "Vermillion Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/vermillion-campground-lake-thomas-a-edison?osq=camping"
+    },
+    {
+        "name": "Shaver Lake",
+        "rating": 4.5,
+        "categories": "Fishing, Lakes",
+        "website": "https://www.yelp.com/biz/shaver-lake-auberry?osq=camping"
+    },
+    {
+        "name": "The Camp Transformation Center - Fresno",
+        "rating": 4.5,
+        "categories": "Weight Loss Centers, Boot Camps, Trainers",
+        "website": "https://www.yelp.com/biz/the-camp-transformation-center-fresno-fresno?osq=camping"
+    },
+    {
+        "name": "The Camp Transformation Center - Clovis",
+        "rating": 5,
+        "categories": "Gyms, Weight Loss Centers",
+        "website": "https://www.yelp.com/biz/the-camp-transformation-center-clovis-clovis-2?osq=camping"
+    },
+    {
+        "name": "East Fork Campgrounds",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/east-fork-campgrounds-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Upper Pines Campground at Yosemite National Park",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/upper-pines-campground-at-yosemite-national-park-yosemite-national-park?osq=camping"
+    },
+    {
+        "name": "Dinkey Creek Campground",
+        "rating": 3.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/dinkey-creek-campground-shaver-lake?osq=camping"
+    },
+    {
+        "name": "The Camp Transformation Center - Madera",
+        "rating": 4,
+        "categories": "Gyms, Boot Camps",
+        "website": "https://www.yelp.com/biz/the-camp-transformation-center-madera-no-title?osq=camping"
+    },
+    {
+        "name": "San Joaquin River Gorge",
+        "rating": 4.5,
+        "categories": "Parks",
+        "website": "https://www.yelp.com/biz/san-joaquin-river-gorge-auberry?osq=camping"
+    },
+    {
+        "name": "Crane Flat Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/crane-flat-campground-tuolumne?osq=camping"
+    },
+    {
+        "name": "Lake Mary Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/lake-mary-campground-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Rainbow Falls",
+        "rating": 5,
+        "categories": "Hiking",
+        "website": "https://www.yelp.com/biz/rainbow-falls-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Reds Meadow Campground",
+        "rating": 5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/reds-meadow-campground-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Catavee Campground",
+        "rating": 3.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/catavee-campground-huntington-lake?osq=camping"
+    },
+    {
+        "name": "Clover Meadow Campground",
+        "rating": 3,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/clover-meadow-campground-north-fork?osq=camping"
+    },
+    {
+        "name": "Upper billy creek campground",
+        "rating": 4,
+        "categories": "Campgrounds, Lakes",
+        "website": "https://www.yelp.com/biz/upper-billy-creek-campground-huntington-lake?osq=camping"
+    },
+    {
+        "name": "Lower Pines at Yosemite National Park",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/lower-pines-at-yosemite-national-park-yosemite-national-park?osq=camping"
+    },
+    {
+        "name": "Dorst Creek Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/dorst-creek-campground-sequoia-national-park?osq=camping"
+    },
+    {
+        "name": "Bridalveil Creek Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/bridalveil-creek-campground-yosemite-natl-pk?osq=camping"
+    },
+    {
+        "name": "Hume Lake Camps",
+        "rating": 4.5,
+        "categories": "Parks, Boating, Hiking",
+        "website": "https://www.yelp.com/biz/hume-lake-camps-hume?osq=camping"
+    },
+    {
+        "name": "June Lake",
+        "rating": 4.5,
+        "categories": "Lakes",
+        "website": "https://www.yelp.com/biz/june-lake-june-lake?osq=camping"
+    },
+    {
+        "name": "Sunset Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/sunset-campground-grant-grove?osq=camping"
+    },
+    {
+        "name": "Eshom Campground",
+        "rating": 5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/eshom-campground-dunlap?osq=camping"
+    },
+    {
+        "name": "Oh! Ridge",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/oh-ridge-june-lake?osq=camping"
+    },
+    {
+        "name": "Brown\u2019s Millpond Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/browns-millpond-campground-bishop?osq=camping"
+    },
+    {
+        "name": "Indian Flats Campground",
+        "rating": 3.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/indian-flats-campground-el-portal?osq=camping"
+    },
+    {
+        "name": "Bishop Park Group",
+        "rating": 5,
+        "categories": "Campgrounds, Sports Clubs",
+        "website": "https://www.yelp.com/biz/bishop-park-group-bishop?osq=camping"
+    },
+    {
+        "name": "Lupine Campground",
+        "rating": 2,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/lupine-campground-wishon?osq=camping"
+    },
+    {
+        "name": "AutoCamp - Midpines",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/autocamp-midpines-midpines?osq=camping"
+    },
+    {
+        "name": "Sentinel Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/sentinel-campground-cedar-grove?osq=camping"
+    },
+    {
+        "name": "Muir Trail Ranch",
+        "rating": 3.5,
+        "categories": "Bed & Breakfast, Campgrounds",
+        "website": "https://www.yelp.com/biz/muir-trail-ranch-lakeshore?osq=camping"
+    },
+    {
+        "name": "Skylake Yosemite Camp",
+        "rating": 4.5,
+        "categories": "Summer Camps",
+        "website": "https://www.yelp.com/biz/skylake-yosemite-camp-wishon?osq=camping"
+    },
+    {
+        "name": "Lower Lee Vining Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/lower-lee-vining-campground-yosemite-national-park?osq=camping"
+    },
+    {
+        "name": "College Campground",
+        "rating": 3.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/college-campground-fresno?osq=camping"
+    },
+    {
+        "name": "Four Jeffrey Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/four-jeffrey-campground-bishop?osq=camping"
+    },
+    {
+        "name": "Yosemite Half Marathon",
+        "rating": 4,
+        "categories": "Races & Competitions",
+        "website": "https://www.yelp.com/biz/yosemite-half-marathon-oakhurst?osq=camping"
+    },
+    {
+        "name": "Eastman Lake",
+        "rating": 3.5,
+        "categories": "Lakes",
+        "website": "https://www.yelp.com/biz/eastman-lake-raymond?osq=camping"
+    },
+    {
+        "name": "Reversed Creek Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/reversed-creek-campground-june-lake?osq=camping"
+    },
+    {
+        "name": "Convict Lake",
+        "rating": 4.5,
+        "categories": "Hiking, Fishing, Horseback Riding",
+        "website": "https://www.yelp.com/biz/convict-lake-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "McGee Creek RV Park & Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds, RV Parks",
+        "website": "https://www.yelp.com/biz/mcgee-creek-rv-park-and-campground-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Shaver Lake Marina",
+        "rating": 3.5,
+        "categories": "Marinas, Fishing, Jet Skis",
+        "website": "https://www.yelp.com/biz/shaver-lake-marina-shaver-lake?osq=camping"
+    },
+    {
+        "name": "Silver Lake",
+        "rating": 4.5,
+        "categories": "Lakes, Hiking, Fishing",
+        "website": "https://www.yelp.com/biz/silver-lake-june-lake?osq=camping"
+    },
+    {
+        "name": "Yosemite Airstream",
+        "rating": 0,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/yosemite-airstream-oakhurst?osq=camping"
+    },
+    {
+        "name": "Horseshoe Lake",
+        "rating": 4,
+        "categories": "Lakes",
+        "website": "https://www.yelp.com/biz/horseshoe-lake-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Huntington Lake",
+        "rating": 4.5,
+        "categories": "Lakes",
+        "website": "https://www.yelp.com/biz/huntington-lake-lakeshore?osq=camping"
+    },
+    {
+        "name": "Brown\u2019s Owens River Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/browns-owens-river-campground-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Cherry Valley Campground",
+        "rating": 5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/cherry-valley-campground-groveland?osq=camping"
+    },
+    {
+        "name": "High Sierra RV & Mobile Park",
+        "rating": 3.5,
+        "categories": "RV Parks",
+        "website": "https://www.yelp.com/biz/high-sierra-rv-and-mobile-park-oakhurst?osq=camping"
+    },
+    {
+        "name": "Kinnikinnick Campground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/kinnikinnick-campground-lakeshore?osq=camping"
+    },
+    {
+        "name": "Golden Pine Rv Park",
+        "rating": 4,
+        "categories": "RV Parks",
+        "website": "https://www.yelp.com/biz/golden-pine-rv-park-june-lake?osq=camping"
+    },
+    {
+        "name": "Bass Lake Water Sports & Boat Rentals",
+        "rating": 3.5,
+        "categories": "Boating",
+        "website": "https://www.yelp.com/biz/bass-lake-water-sports-and-boat-rentals-bass-lake?osq=camping"
+    },
+    {
+        "name": "Lakeridge Camping & Boating Resort",
+        "rating": 3,
+        "categories": "Boating, RV Parks, Campgrounds",
+        "website": "https://www.yelp.com/biz/lakeridge-camping-and-boating-resort-sanger?osq=camping"
+    },
+    {
+        "name": "Trimmer Campground",
+        "rating": 3,
+        "categories": "Parks",
+        "website": "https://www.yelp.com/biz/trimmer-campground-piedra?osq=camping"
+    },
+    {
+        "name": "June Lake RV Park",
+        "rating": 4,
+        "categories": "RV Parks",
+        "website": "https://www.yelp.com/biz/june-lake-rv-park-june-lake?osq=camping"
+    },
+    {
+        "name": "Sequoia RV Park",
+        "rating": 4.5,
+        "categories": "RV Parks, Campgrounds",
+        "website": "https://www.yelp.com/biz/sequoia-rv-park-dunlap-4?osq=camping"
+    },
+    {
+        "name": "Convict Lake Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/convict-lake-campground-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Sugar Pine Christian Camps",
+        "rating": 5,
+        "categories": "Day Camps",
+        "website": "https://www.yelp.com/biz/sugar-pine-christian-camps-oakhurst?osq=camping"
+    },
+    {
+        "name": "Fort Washington Beach Park",
+        "rating": 3.5,
+        "categories": "Parks",
+        "website": "https://www.yelp.com/biz/fort-washington-beach-park-fresno?osq=camping"
+    },
+    {
+        "name": "Yosemite Housekeeping Camp",
+        "rating": 3.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/yosemite-housekeeping-camp-yosemite-national-park?osq=camping"
+    },
+    {
+        "name": "Big Springs Campground",
+        "rating": 5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/big-springs-campground-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "American Dimond O Camp Ground",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/american-dimond-o-camp-ground-yosemite-nationl-prk?osq=camping"
+    },
+    {
+        "name": "Mariposa Grove of Giant Sequoias",
+        "rating": 4.5,
+        "categories": "Parks",
+        "website": "https://www.yelp.com/biz/mariposa-grove-of-giant-sequoias-yosemite-national-park?osq=camping"
+    },
+    {
+        "name": "Sherwin Creek Campground",
+        "rating": 4.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/sherwin-creek-campground-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Rock Creek Canyon Campground",
+        "rating": 0,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/rock-creek-canyon-campground-crowley-lake-2?osq=camping"
+    },
+    {
+        "name": "Camp Sierra",
+        "rating": 5,
+        "categories": "Campgrounds, Venues & Event Spaces",
+        "website": "https://www.yelp.com/biz/camp-sierra-big-creek?osq=camping"
+    },
+    {
+        "name": "Big Pine Lakes",
+        "rating": 5,
+        "categories": "Hiking",
+        "website": "https://www.yelp.com/biz/big-pine-lakes-big-pine?osq=camping"
+    },
+    {
+        "name": "Pleasant Valley Campground",
+        "rating": 3,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/pleasant-valley-campground-bishop?osq=camping"
+    },
+    {
+        "name": "Camp 4",
+        "rating": 4,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/camp-4-yosemite-national-park?osq=camping"
+    },
+    {
+        "name": "Twin Lakes",
+        "rating": 4.5,
+        "categories": "Fishing, Lakes",
+        "website": "https://www.yelp.com/biz/twin-lakes-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Grant Lake",
+        "rating": 2,
+        "categories": "Lakes",
+        "website": "https://www.yelp.com/biz/grant-lake-june-lake?osq=camping"
+    },
+    {
+        "name": "Lake George",
+        "rating": 4,
+        "categories": "Hiking, Boating, Lakes",
+        "website": "https://www.yelp.com/biz/lake-george-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Camp High Sierra",
+        "rating": 3.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/camp-high-sierra-mammoth-lakes?osq=camping"
+    },
+    {
+        "name": "Sierra Lakes Campground & Rv Park",
+        "rating": 1,
+        "categories": "RV Parks",
+        "website": "https://www.yelp.com/biz/sierra-lakes-campground-and-rv-park-badger?osq=camping"
+    },
+    {
+        "name": "Gold Arrow Camp",
+        "rating": 5,
+        "categories": "Summer Camps",
+        "website": "https://www.yelp.com/biz/gold-arrow-camp-clovis?osq=camping"
+    },
+    {
+        "name": "Lost Lake Park",
+        "rating": 3,
+        "categories": "Parks",
+        "website": "https://www.yelp.com/biz/lost-lake-park-friant?osq=camping"
+    },
+    {
+        "name": "Grant Grove",
+        "rating": 5,
+        "categories": "Hiking",
+        "website": "https://www.yelp.com/biz/grant-grove-badger?osq=camping"
+    },
+    {
+        "name": "Tuolumne Meadows Campground Yosemite",
+        "rating": 3.5,
+        "categories": "Campgrounds",
+        "website": "https://www.yelp.com/biz/tuolumne-meadows-campground-yosemite-yosemite?osq=camping"
+    }
+]
